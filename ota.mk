@@ -1,0 +1,2 @@
+PRODUCT_PACKAGES += LineageUpdaterOverlay$(PRODUCT_VERSION_MAJOR)
+
